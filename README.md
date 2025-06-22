@@ -32,3 +32,14 @@ Task 4: Run-Length Encoding (RLE)
 The final task involves implementing a basic data compression algorithm, specifically Run-Length Encoding (RLE). The program must be capable of both compressing and decompressing text files. RLE is a simple yet effective technique that reduces file size by replacing sequences of repeated characters with a single character and its count. Through this task, interns will understand the importance of data compression in reducing storage requirements and transmission time. It introduces them to algorithmic thinking and how data representation affects performance.
 
 The CODTECH internship tasks are designed to build strong programming fundamentals while exposing interns to key areas of computer science. Each task promotes problem-solving, logical thinking, and practical application of concepts learned in theory. Interns are encouraged to use internet resources responsibly, follow group updates, and submit their solutions before the deadline to secure their completion certificate. By the end of the internship, participants will have a solid portfolio of C programs showcasing their ability to handle file systems, data structures, compiler basics, and data compression.*
+
+
+*output*:![Image](https://github.com/user-attachments/assets/4ac99256-2fbb-4271-a046-933693077c5f)
+
+![Image](https://github.com/user-attachments/assets/26ce7054-737e-43e7-9f0d-d3e7d4f0ae16)
+
+![Image](https://github.com/user-attachments/assets/667fa1c3-4e4d-46b3-b463-c06b5b782385)
+
+![Image](https://github.com/user-attachments/assets/9d091900-11ac-44e1-9759-03d3f43586d9)
+
+![Image](https://github.com/user-attachments/assets/d48c0f22-3680-4977-9b53-a7417cf416ef)
